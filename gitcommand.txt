@@ -1,0 +1,13 @@
+
+$ git init //to initializ git in folder
+$ git config --global user.name "your username"
+$ git config --global user.email "your email"
+$ git config --global user.password "your password"
+$ git status
+$ git add test.txt
+$ git commit -m "commited"
+$ git status
+$ git commit
+$ git remote add origin  https://github.com/vaishalikasar13/node.git
+$ git push -u origin master
+$ git clone https://github.com/vaishalikasar13/node.git
